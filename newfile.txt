@@ -1,2 +1,3 @@
 WELCOME TO MY GIT LESSON
 
+There are 3 main commands that are used in git, namely: add, commit, and push
