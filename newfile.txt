@@ -1,3 +1,7 @@
 WELCOME TO MY GIT LESSON
 
 There are 3 main commands that are used in git, namely: add, commit, and push but what are these differences exactly?
+
+add - this is merely staging the exact file or files that you want to push to server, meaning there can still be other files left uncommitted
+commit - this is like taking a local snapshot of your code in time; it is suggested to commit often so that if in case you commit an error, you can revert back to an old and working commit
+push - this is where you finally push the committed changes into the existing server
